@@ -1,0 +1,25 @@
+{
+  "name": "week-1-toy-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-regex": "^4.1.1",
+    "prompt-sync": "^4.2.0",
+    "strip-ansi": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaizeninCode/week-1-toy-problems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaizeninCode/week-1-toy-problems/issues"
+  },
+  "homepage": "https://github.com/KaizeninCode/week-1-toy-problems#readme",
+  "keywords": []
+}
